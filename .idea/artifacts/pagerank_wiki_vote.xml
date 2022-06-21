@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pagerank_wiki_vote">
+    <output-path>$PROJECT_DIR$/out/artifacts/pagerank_wiki_vote</output-path>
+    <root id="archive" name="pagerank_wiki_vote.jar">
+      <element id="module-output" name="Distributed-System-final-project" />
+      <element id="module-source" name="Distributed-System-final-project" />
+    </root>
+  </artifact>
+</component>

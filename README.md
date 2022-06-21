@@ -1,2 +1,2 @@
 # Distributed-System-final-project
-期末大作业 在用户不同的RDD缓存策略下的PageRank的代码，可以修改数据集  这里pageRank和pageRank3分别对应实验中我用到的数据集，pageRank1和pageRank2对应另外两个数据集，代码逻辑都是一样的，只不过对应数据集不同。
+期末大作业 在用户不同的RDD缓存策略下的PageRank的代码，可以修改数据集
